@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰our channel 🔰', url="https://t.me/malayalammoviesme"
+                                    'Developers', url="https://t.me/malayalammoviesme"
                                 )
                         ]
                     ]
